@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFBB&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Software+Engineer;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
 </div>
 
-<!-- Profile views counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aquibjawedio&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
